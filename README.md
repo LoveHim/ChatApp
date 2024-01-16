@@ -10,5 +10,5 @@
 2. Learned how to use some widgets such as: AppBar, Text, Column, DropdownButton, SizedBox, Container, ListView, IconButton, SingleChildScrollView, Padding, CircleAvatar
    
 # Ongoing Tasks
-1. Learn to use Firebase, connet to ChatApp
+1. Learn to use Firebase, connect to ChatApp
 2. Try making some simple flutter apps
