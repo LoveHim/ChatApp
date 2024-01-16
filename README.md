@@ -1,16 +1,4 @@
-# chat_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![chatpage](https://github.com/LoveHim/ChatApp/assets/77631759/9b0168e5-5ccf-444a-b788-9aa1cd2452bbs?s=100) 
+![signu](https://github.com/LoveHim/ChatApp/assets/77631759/c2f98244-d64f-4522-aa18-0f5c54eb7de4)
+![singin](https://github.com/LoveHim/ChatApp/assets/77631759/249ac9b6-be95-492e-b50e-cc96cb63948a)
+![home](https://github.com/LoveHim/ChatApp/assets/77631759/4d380376-ffed-4677-ae03-c51f35cdf265)
